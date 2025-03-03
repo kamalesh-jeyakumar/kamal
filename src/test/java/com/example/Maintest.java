@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Before;
 import org.junit.Test;
 
-public class MainTest {
+public class Maintest {
     private Main main;
 
     @Before // This runs before each test
