@@ -15,4 +15,4 @@ public class MainTest {
     @Test
     public void testGreet() {
         assertEquals("Hello, Jenkins!", main.greet());
-    }
+    }}
