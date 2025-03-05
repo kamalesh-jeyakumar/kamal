@@ -1,4 +1,4 @@
-Use OpenJDK 17 as the base image
+# Use OpenJDK 17 as the base image
 FROM openjdk:17-jdk
 
 # Set the working directory
